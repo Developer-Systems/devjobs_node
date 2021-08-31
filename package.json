@@ -1,0 +1,25 @@
+{
+  "name": "devjobs_node",
+  "version": "1.0.0",
+  "description": "Portal de empleo para desarrolladores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Developer-Systems/devjobs_node.git"
+  },
+  "keywords": [
+    "nodejs",
+    "vuejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Developer Systems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Developer-Systems/devjobs_node/issues"
+  },
+  "homepage": "https://github.com/Developer-Systems/devjobs_node#readme"
+}
